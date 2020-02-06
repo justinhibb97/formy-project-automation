@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5db20ec-6252-47dd-8b02-ccd860ddf8bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XRbmnsjUCX8lW6NoZyYM1bBls4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sun.rmi.server.Activation" />
+      <module name="Exercise Files" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5db20ec-6252-47dd-8b02-ccd860ddf8bb" name="Default Changelist" comment="" />
+      <created>1581012016232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581012016232</updated>
+      <workItem from="1581012018643" duration="717000" />
+      <workItem from="1581012854241" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2124" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581012857419">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="2124" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1581012857419" />
+    <state x="2397" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581012823747">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="2397" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.812/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1581012823747" />
+    <state x="2494" y="331" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581012540544">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="2494" y="331" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.812/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1581012540544" />
+    <state x="1716" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1581012021729">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="1716" y="202" key="com.intellij.ide.util.TipDialog/0.23.1440.812/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1581012021729" />
+    <state x="2325" y="197" key="run.anything.popup" timestamp="1581012848276">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="2325" y="197" key="run.anything.popup/0.23.1440.812/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1581012848276" />
+  </component>
+</project>
